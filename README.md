@@ -1,20 +1,7 @@
 - 👋 Hi, I’m Maxim @gitoqe
-
-- 👀 I’m interested in:
-  - games
-  - programming
-  - it infrastructure
-
-- 🌱 I’m currently learning:
-  - javascript
-  - node.js
-  - react
-  - c++
-  - python
-
-- 📫 How to reach me:
-  - creativesun@yandex.ru
-
+- 👀 I’m interested in: programming, it infrastructure, games
+- 🌱 I’m currently learning: javascript, node.js, react, c++, python
+- 📫 How to reach me: creativesun@yandex.ru
 <!-- - 💞️ I’m looking to collaborate on: ... -->
 
 <!---
