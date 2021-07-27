@@ -18,7 +18,7 @@
   - [FreeCodeCamp][FCC]
   - [LeetCode][leetcode]
 - **How to reach me**: creativesun@yandex.ru
-- 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitoqe&layout=compact&hide=html">
 </p>
