@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<p align="center">Novice programmer</p>
+<p align="center">junior (?) software developer</p>
 
 - **I’m interested in**: programming, gaming, IT
 - **I wish (need) to learn and practice**:
@@ -14,10 +14,13 @@
   - Computer vision, machine learning, natural language processing
   - Development for Android/iOS
   - Working C++ with  graphics (SDL2, OpenGL, SFML, ...)
+<!---
 - **You can also find my profile at**:
   - [FreeCodeCamp][FCC]
   - [LeetCode][leetcode]
+--->
 - **How to reach me**: creativesun@yandex.ru
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitoqe&layout=compact&hide=html">
