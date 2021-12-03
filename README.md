@@ -7,13 +7,13 @@
   - web-apps, web protocols, RESTful api, SOAP
   - JavaScript, Node.js, React, TypeScript
   - python
-  - C++
+  - C++/Java
 - **What I want to undestand and learn**:
   - git
   - sections of higher mathematics
   - Computer vision, machine learning, natural language processing
   - Development for Android/iOS
-  - Working C++ with  graphics (SDL2, OpenGL, SFML, ...)
+  - Working with graphics using C++ (SDL2, OpenGL, SFML, ...) or Java (..?)
 <!---
 - **You can also find my profile at**:
   - [FreeCodeCamp][FCC]
