@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
+
+And here is some of my IT experience in different repos.
+
+<!---
 <p align="center">junior(+) software developer</p>
 
 - **I’m interested in**: programming, gaming, IT
@@ -18,7 +22,6 @@
 - **How to reach me**:
   - E-mail: creativesun@yandex.ru
 
-<!---
 - **You can also find my profile at**:
   - [FreeCodeCamp][FCC]
   - [LeetCode][leetcode]
