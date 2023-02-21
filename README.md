@@ -2,9 +2,9 @@
 
 And here is some of my IT experience in different repos.
 
-<!---
-<p align="center">junior(+) software developer</p>
+<p align="center">software developer</p>
 
+<!---
 - **I’m interested in**: programming, gaming, IT
 
 - **I wish (need) to learn and practice**:
@@ -17,7 +17,7 @@ And here is some of my IT experience in different repos.
 - **What I want to undestand and learn**:
   - Git
   - Development for Android/iOS
-  - Working with graphics using C++ (SDL2, OpenGL, SFML, ...) or Java (..?)
+  - Working with graphics using C++ (SDL2, OpenGL, SFML, ...)
 
 - **How to reach me**:
   - E-mail: creativesun@yandex.ru
