@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 
-And here is some of my IT experience in different repos.
-
 <p align="center">software developer</p>
+
+And here is some of my IT experience in different repos.
 
 <!---
 - **I’m interested in**: programming, gaming, IT
