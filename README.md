@@ -29,9 +29,9 @@ And here is some of my IT experience in different repos.
 --->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitoqe&layout=compact&hide=html">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergimax&layout=compact&hide=html">
 </p>
 
 [FCC]:https://www.freecodecamp.org/cmpoqe
-[leetcode]:https://leetcode.com/leetoqe/
+[leetcode]:https://leetcode.com/sergimax/
 [codewars]:https://www.codewars.com/users/gitoqe
