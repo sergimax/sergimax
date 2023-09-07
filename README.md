@@ -21,12 +21,13 @@ And here is some of my IT experience in different repos.
 
 - **How to reach me**:
   - E-mail: creativesun@yandex.ru
-
-- **You can also find my profile at**:
-  - [FreeCodeCamp][FCC]
-  - [LeetCode][leetcode]
-  - [CodeWars][codewars]
 --->
+- **You can also find my profile at**:
+  - [LeetCode][leetcode]
+  - telegram - [@sergimax](https://t.me/sergimax)
+  - e-mail - [creativesun@yandex.ru](mailto:creativesun@yandex.ru)
+  - habr.career - [qurafity](https://career.habr.com/qurafity) 
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergimax&layout=compact&hide=html">
