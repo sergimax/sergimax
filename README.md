@@ -20,10 +20,9 @@ And here is some of my IT experience in different repos.
   - Working with graphics using C++ (SDL2, OpenGL, SFML, ...)
 
 - **How to reach me**:
-  - E-mail: creativesun@yandex.ru
+  - [LeetCode][leetcode]
 --->
 - **You can also find my profile at**:
-  - [LeetCode][leetcode]
   - telegram - [@sergimax](https://t.me/sergimax)
   - e-mail - [creativesun@yandex.ru](mailto:creativesun@yandex.ru)
   - habr.career - [qurafity](https://career.habr.com/qurafity) 
