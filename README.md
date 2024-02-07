@@ -2,10 +2,25 @@
 
 <p align="center">web developer</p>
 
-Сейчас занимаюсь разработкой программных фронтенд решений для финтех компаний.
+Занимаюсь разработкой программных фронтенд решений для финтех компаний.
 
 Большая часть моего опыта сосредоточилась вокруг приложений для банков с применением JavaScript/TypeScript.
 Мне нравится JavaScript за его универсальность и TypeScript за привносимый им порядок.
+
+Сейчас активно вникаю в React и параллельно прохожу курс по Flutter\Dart.
+
+
+Применяю:
+Typescript/JavaScript, Angular.js, React, HTML/CSS, Git﻿
+
+Пользуюсь:
+WebStorm, Fiddler, Jira, GitLab, GitHub
+
+Изучаю:
+React,﻿ Redux, Dart/Flutter
+
+Хочу посмотреть:
+Rust,﻿ Node.js, WebAssembly
 
   - telegram - [@sergimax](https://t.me/sergimax)
   - e-mail - [creativesun@yandex.ru](mailto:creativesun@yandex.ru)
