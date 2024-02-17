@@ -9,23 +9,22 @@
 
 Сейчас активно вникаю в React и параллельно прохожу курс по Flutter\Dart.
 
-
 Применяю:
-Typescript/JavaScript, Angular.js, React, HTML/CSS, Git﻿
+Typescript/JavaScript, React, Angular.js, , HTML/CSS, Git
 
 Пользуюсь:
 WebStorm, Fiddler, Jira, GitLab, GitHub
 
 Изучаю:
-React,﻿ Redux, Dart/Flutter
+React, Redux, Dart/Flutter
 
 Хочу посмотреть:
-Rust,﻿ Node.js, WebAssembly
+Rust, Node.js, WebAssembly
 
   - telegram - [@sergimax](https://t.me/sergimax)
   - e-mail - [creativesun@yandex.ru](mailto:creativesun@yandex.ru)
   - habr.career - [qurafity](https://career.habr.com/qurafity) 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergimax&layout=compact&hide=html">
-</p>
+</p> -->
