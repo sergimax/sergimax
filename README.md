@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Max</h1>
+<h1 align="center">Максим Сергиенко</h1>
 
-<p align="center">web developer</p>
+<p align="center">веб разработчик</p>
 
 Занимаюсь разработкой программных фронтенд решений для финтех компаний.
 
