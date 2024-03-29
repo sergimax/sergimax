@@ -2,28 +2,27 @@
 
 <p align="center">веб разработчик</p>
 
-Занимаюсь разработкой программных фронтенд решений для финтех компаний.
+В данный момент занимаюсь разработкой программных фронтенд решений для финтех компаний.
 
-Большая часть моего опыта сосредоточилась вокруг приложений для банков с применением JavaScript/TypeScript.
-Мне нравится JavaScript за его универсальность и TypeScript за привносимый им порядок.
+Большая часть моего опыта сосредоточилась вокруг приложений для банков с применением JavaScript / TypeScript.
 
-Сейчас активно вникаю в React и параллельно прохожу курс по Flutter\Dart.
+Из фреймворков удалось поработать с Angular.JS (и его использованием для мультиплатформенных приложений с помощью Ionic / Cordova), немного с Angular 13.
+Сейчас активно погружаюсь в React и его окружение.
 
 Применяю:
-Typescript/JavaScript, React, Angular.js, , HTML/CSS, Git
+Typescript, React, Angular.js, Redux, Node.js, HTML/CSS, Git
 
-Пользуюсь:
-WebStorm, Fiddler, Jira, GitLab, GitHub
-
-Изучаю:
-React, Redux, Dart/Flutter
+Вникаю:
+React, Redux, Redux Toolkit, Node.js
 
 Хочу посмотреть:
-Rust, Node.js, WebAssembly
+Rust, WebAssembly, SSR, Next.js
+
 
   - telegram - [@sergimax](https://t.me/sergimax)
   - e-mail - [creativesun@yandex.ru](mailto:creativesun@yandex.ru)
-  - habr.career - [qurafity](https://career.habr.com/qurafity) 
+  - habr.career - [qurafity](https://career.habr.com/qurafity)
+  - linkedin - [sergimax](https://www.linkedin.com/in/sergimax/)
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergimax&layout=compact&hide=html">
