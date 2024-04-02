@@ -21,7 +21,7 @@ Rust, WebAssembly, SSR, Next.js
 
   - telegram - [@sergimax](https://t.me/sergimax)
   - e-mail - [creativesun@yandex.ru](mailto:creativesun@yandex.ru)
-  - habr.career - [qurafity](https://career.habr.com/qurafity)
+  - habr.career - [sergimax](https://career.habr.com/sergimax)
   - linkedin - [sergimax](https://www.linkedin.com/in/sergimax/)
 
 <!-- <p align="center">
