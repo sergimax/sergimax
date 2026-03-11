@@ -1,16 +1,11 @@
-<h1 align="center">Максим Сергиенко</h1>
+использую:
+`Typescript`, `React`, `Redux Toolkit`, `HTML`/`CSS`,  `Node.js`, `Angular.js`
 
-<p align="center">веб разработчик</p>
-
-Применяю:
-`Typescript`, `React`, `Redux Toolkit`, `HTML`/`CSS`, `Angular.js`, `Node.js`
-
-Хочу посмотреть:
+смотрю:
 `Rust`, `WebAssembly`, `SSR`, `Next.js`, `WebGL`
 
 
   - telegram - [@sergimax](https://t.me/sergimax)
-  - e-mail - [creativesun@yandex.ru](mailto:creativesun@yandex.ru)
   - habr.career - [sergimax](https://career.habr.com/sergimax)
   - linkedin - [sergimax](https://www.linkedin.com/in/sergimax/)
 
