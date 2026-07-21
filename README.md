@@ -7,10 +7,10 @@ Frontend-разработчик на **React** и **TypeScript**.
 ---
 
 ### Стек
-**Основной:** `TypeScript`, `React`, `Vite`, `HTML`/`CSS`
-**Также в работе :** `Redux Toolkit`, `Jest` / `Vitest`, `Git` (`Gitflow`, `Conventional Commits`), `CI`, `Node.js`
-**Из опыта:** `AngularJS`, `Ionic`, `Cordova`, `микрофронтенды`
-**Смотрю:** `Next.js` / `SSR`, `Node.js`, `Docker`,`PostgreSQL`
+- **Основной:** `TypeScript`, `React`, `Vite`, `HTML`/`CSS`
+- **Также в работе :** `Redux Toolkit`, `Jest` / `Vitest`, `Git` (`Gitflow`, `Conventional Commits`), `CI`, `Node.js`
+- **Из опыта:** `AngularJS`, `Ionic`, `Cordova`, `микрофронтенды`
+- **Смотрю:** `Next.js` / `SSR`, `Node.js`, `Docker`,`PostgreSQL`
 
 ---
 
