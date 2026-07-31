@@ -7,7 +7,7 @@ Frontend-разработчик на **React** и **TypeScript**.
 ---
 
 ### Стек
-- **Основной:** `TypeScript`, `React`, `Vite`, `HTML`/`CSS`
+- **Основной:** `TypeScript`, `React`, `Vite`, `HTML`/`CSS`, `Cursor`
 - **Также в работе :** `Redux Toolkit`, `Jest` / `Vitest`, `Git` (`Gitflow`, `Conventional Commits`), `CI`, `Node.js`
 - **Из опыта:** `AngularJS`, `Ionic`, `Cordova`, `микрофронтенды`
 - **Смотрю:** `Next.js` / `SSR`, `Node.js`, `Docker`,`PostgreSQL`
@@ -18,5 +18,6 @@ Frontend-разработчик на **React** и **TypeScript**.
 | Проект | Стек | Ссылка |
 |--------|------|--------|
 | **My Raid CDs** — трекер рейдовых кулдаунов, BiS-подсказки, EN/RU | React, TypeScript, Vite, MUI | [demo](https://sergimax.ru/my-raid-cds), [repo](https://github.com/sergimax/my-raid-cds) |
+| **Keyboard Clicks Analyzer** — локальный анализатор использования клавиатуры | React, TypeScript, Vite, Rust | [repo](https://github.com/sergimax/keyboard-clicks-analyzer) |
 | **Simple name picker** — выбор имени из списка с рейтингом и localStorage | React, TypeScript, Vite | [demo](https://sergimax.ru/simple-name-picker), [repo](https://github.com/sergimax/simple-name-picker)|
 | **Stellar Burgers** — учебный проект Яндекс Практикума | React, TypeScript, Redux | курсовой проект, [repo](https://github.com/sergimax/stellar-burgers-yandex-practicum)|
